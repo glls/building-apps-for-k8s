@@ -7,5 +7,5 @@ metadata:
 spec:
   containers:
   - name: building-apps-container
-    image: lander2k2/building-apps:0.1
+    image: glls/building-apps:0.1
 
